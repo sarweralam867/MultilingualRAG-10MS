@@ -1,1 +1,1 @@
-# MultilingualRAG-10MsSchool
+# MultilingualRAG-10MS
